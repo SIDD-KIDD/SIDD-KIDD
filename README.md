@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there! 👋 I'm Siddhant Londhe 
 
-<!--
-**SIDD-KIDD/SIDD-KIDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me:**  
+- ♾️ Can Quickly Adapt to new Technologies
+- 🎓 Diploma(AI-ML) Student | Python Developer 
+- 💻 Python | JavaScript | HTML | CSS | Flask | Android Development (Native)  
+- 📊 Helping students with project reports & assignments  
+- 🤖 Exploring AI & Machine Learning  
+- 🌱 Gardening enthusiast (Trying to grow strawberries! 🍓)
 
-Here are some ideas to get you started:
+🔧 **Current Projects:**  
+- 🏫 College Eligibility Checker (Flask)  
+- 🖐️ Hand Gesture Based PPT Control System   
+- 🎓 Msbte Result Scrapper 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Get in Touch:**  
+- 📧 Email: [970siddhant@gmail.com]  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/siddhant-londhe/]   
+
+⭐ **Fun Fact:** I took on an Android project without knowing Java! 😆
+
+---
+💡 *Always learning, always building!* 🚀
