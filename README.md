@@ -27,8 +27,7 @@ Some of my work is **private** because:
 
 Here's a sneak peek at my **actual** GitHub repositories (public + private):  
 
-![GitHub Repos](![image](https://github.com/user-attachments/assets/f4794190-dbd3-4376-be53-7683c45310a2)
-)
+<img src="https://raw.githubusercontent.com/SIDD-KIDD/SIDD-KIDD/main/Screenshot%202025-03-01%20160006.png" alt="GitHub Repos" width="800">
 
 
 
