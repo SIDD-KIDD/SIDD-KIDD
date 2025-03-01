@@ -22,7 +22,7 @@
 - 📧 Email: [970siddhant@gmail.com]  
 - 🔗 LinkedIn: [https://www.linkedin.com/in/siddhant-londhe/]   
 
-<h3 align="left">Connect with me:</h3>
+🔗 **Connect with me:**
 <p align="left">
 <a href="https://twitter.com/siddkidd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddkidd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siddhant-londhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant-londhe" height="30" width="40" /></a>
@@ -32,7 +32,7 @@
 <a href="https://www.leetcode.com/siddkidd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddkidd" height="30" width="40" /></a>
 </p>
 
-⭐ **Fun Fact:** I took on an Android project without knowing Java! 😆
+⭐ **Fun Fact:** I'm a Night Owl🦉
 
 ---
-💡 *Always learning, always building!* 🚀
+When you help someone, you help everyone 🤝
