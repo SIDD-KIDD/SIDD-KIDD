@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0be76ec0-57c7-45db-a4f3-b62d9da0834a)### Hi there! 👋 I'm Siddhant Londhe 
+### Hi there! 👋 I'm Siddhant Londhe 
 
 🚀 **About Me:**  
 - 💻 FreeLance Python Developer 
