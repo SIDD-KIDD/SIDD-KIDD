@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Siddhant Londhe 
+![image](https://github.com/user-attachments/assets/0be76ec0-57c7-45db-a4f3-b62d9da0834a)### Hi there! 👋 I'm Siddhant Londhe 
 
 🚀 **About Me:**  
 - 💻 FreeLance Python Developer 
@@ -17,6 +17,20 @@
 - 🏫 DSE College Eligibility Checker (Flask)  
 - 🖐️ Hand Gesture Based PPT Control System (Mediapipe, CustomTk, PyAutoGui)   
 - 🎓 Msbte Result Scrapper (Selenium)
+
+📌 **Note:  **
+Having fewer public repositories **doesn't mean** I haven't built projects! 🚀  
+Some of my work is **private** because:  
+- 🔒 They are personal or experimental projects.  
+- 🔧 Client work or freelance projects that can't be shared.  
+- 🎯 I just like keeping some things under wraps!  
+
+Here's a sneak peek at my **actual** GitHub repositories (public + private):  
+
+![GitHub Repos](![image](https://github.com/user-attachments/assets/f4794190-dbd3-4376-be53-7683c45310a2)
+)
+
+
 
 📫 **Get in Touch:**  
 - 📧 Email: [970siddhant@gmail.com]  
