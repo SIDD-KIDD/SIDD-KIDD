@@ -32,8 +32,8 @@ Here's a sneak peek at my **actual** GitHub repositories (public + private):
 
 
 📫 **Get in Touch:**  
-- 📧 Email: [970siddhant@gmail.com]  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/siddhant-londhe/]   
+- 📧 Email: 970siddhant@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/siddhant-londhe/  
 
 🔗 **Connect with me:**
 <p align="left">
